@@ -15,10 +15,15 @@ We started the project by buying a garbage box and then we used the microcontrol
 # The materials we use:
 
 -Garbage
+
 -HC-SR04 Ultrasonic Distance Sensor
+
 -Mini Servomotor
+
 -Arduino Uno R3
+
 -Enough jumper wires
+
 -Umbrella wire or about 20 cm of flat wire (to be mounted on the servo motor and will allow the lid to open and close as it rotates)
 
 # Setup() Function
