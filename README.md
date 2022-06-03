@@ -1,6 +1,12 @@
 # D.Electronic
 Final Project
 
+# Members
+Akif Can DUMAN COM20-B
+Furkan AY COM20-B
+
+## Project Smart Bin
+
 # What we did and the events we experienced in the project:
 
 We started the project by buying a garbage box and then we used the microcontroller, motion sensor, motor and a few cables we needed from the lab at the university. We wrote the microcontroller codes beforehand and then transferred this code to the microcontroller. Then we combined all the materials. After combining the materials, we made holes on the garbage box so that the sensor would not look bad from the outside, and we passed the sensor there, only the sensing parts of the sensor were visible on the outside and this problem disappeared. Finally, we placed all the materials inside the cover of the baton box with the help of silicone, and in this way, the smart baton box became functional.
